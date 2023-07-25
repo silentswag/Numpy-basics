@@ -1,5 +1,6 @@
 # Numpy-basics
-basic opeartions using arrays and matrices
+Basic opeartions using arrays and matrices
+
 NumPy (Numerical Python) is a fundamental and widely used library in Python for numerical and mathematical operations. It provides support for large, multi-dimensional arrays and matrices, as well as a vast collection of high-level mathematical functions to operate on these arrays efficiently. NumPy is the foundation for many other Python libraries used in scientific computing, data analysis, and machine learning.
 
 Key features and functionalities of NumPy include:
